@@ -1,4 +1,4 @@
-<h1 align="center">Howdy! 👨🏻‍💻<br>I'm Edwin Anavitarte</h1>
+<h1 align="center">Hi 👨🏻‍💻, I'm Edwin Anavitarte</h1>
 <h3 align="center">A passionate Back-end Developer from Colombia 🇨🇴</h3>
 
 - 🌱 I’m currently learning **Redux**
