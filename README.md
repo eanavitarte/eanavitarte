@@ -1,4 +1,3 @@
-<h1 align="center">Hi there</h1>
 
 - 👨‍💻 Check my repos: [https://github.com/eanavitarte](https://github.com/eanavitarte)
 
