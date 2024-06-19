@@ -4,7 +4,7 @@
 
 - check my profile: [https://www.linkedin.com/in/edwin-anavitarte/](https://www.linkedin.com/in/edwin-anavitarte/)
 
-- ask me about **Golang, NodeJS, Java, Python or SQL 🐱‍🚀**
+- ask me about **Golang, NodeJS, Java, Python or SQL**
 
 - or just write me: **edwin.anavitarte@academia-lab.com**
 
