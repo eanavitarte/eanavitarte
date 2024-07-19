@@ -1,4 +1,4 @@
-#LATAMInTech 💪
+#LATAMInTech #GoLang
 
 - check my repos: [https://github.com/eanavitarte](https://github.com/eanavitarte)
 
